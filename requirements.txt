@@ -3,7 +3,10 @@ rasterio
 geopandas
 pandas
 numpy
-matplotlib / plotly (para gráficos)
+matplotlib
+plotly
 python-docx
-requests (para llamar a la API de DeepSeek)
-python-dotenv (para manejar claves API)
+requests
+python-dotenv
+shapely
+scipy
