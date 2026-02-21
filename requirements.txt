@@ -1,0 +1,9 @@
+streamlit
+rasterio
+geopandas
+pandas
+numpy
+matplotlib / plotly (para gráficos)
+python-docx
+requests (para llamar a la API de DeepSeek)
+python-dotenv (para manejar claves API)
