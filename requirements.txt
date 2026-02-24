@@ -1,12 +1,10 @@
 streamlit
-rasterio
 geopandas
 pandas
-numpy
+rasterio
+reportlab
 matplotlib
-plotly
-python-docx
-requests
-python-dotenv
-shapely
+numpy
 scipy
+pyyaml
+Pillow
