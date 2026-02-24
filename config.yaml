@@ -1,0 +1,23 @@
+cultivos:
+  maíz:
+    precios:
+      nitrogeno: 1.2
+      fosforo: 2.5
+      potasio: 1.8
+      grano: 0.20
+    umbrales:
+      npk_bajo: 0.5
+      mo_bajo: 2.0
+      humedad_alta: 0.35
+  soja:
+    precios:
+      nitrogeno: 1.1
+      fosforo: 2.3
+      potasio: 1.7
+      grano: 0.30
+  trigo:
+    precios:
+      nitrogeno: 1.3
+      fosforo: 2.4
+      potasio: 1.9
+      grano: 0.22
